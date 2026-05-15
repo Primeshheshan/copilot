@@ -4,7 +4,7 @@ description: "Senior frontend engineer decision gates and checklists for this pr
 argument-hint: "component name, feature, or area to review"
 ---
 
-# Senior Frontend Engineer — mm-ecommerce
+# Senior Frontend Engineer
 
 Quality gates for every stage of frontend work in this project. Apply before shipping.
 
